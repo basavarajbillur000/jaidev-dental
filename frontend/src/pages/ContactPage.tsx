@@ -14,8 +14,7 @@ export default function ContactPage() {
         eyebrow="Contact"
         title={
           <>
-            Book your{" "}
-            <span className="font-serif font-medium italic text-azure-500">visit</span>
+            Book your visit
           </>
         }
         lead="Request an appointment below, call the clinic, or message on WhatsApp — whichever is easiest for you."

@@ -34,8 +34,7 @@ export default function WhyChoose() {
           eyebrow="Why Jaidev"
           title={
             <>
-              Why patients choose{" "}
-              <span className="font-serif font-medium italic text-azure-600">Jaidev</span>
+              Why patients choose Jaidev
             </>
           }
         />

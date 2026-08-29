@@ -14,7 +14,7 @@ export default function FeaturedServices() {
             eyebrow="Treatments"
             title={
               <>
-                Featured <span className="font-serif font-medium italic text-azure-600">treatments</span>
+                Featured treatments
               </>
             }
             lead="A selection from the clinic's publicly listed treatment profile."

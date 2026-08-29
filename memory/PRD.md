@@ -40,6 +40,16 @@ until the clinic verifies.
   treatment-suite, operatory, logo).
 
 ## Implemented (2026-08-29)
+- Refinement round 2 (per clinic change list): featured treatment imagery replaced with
+  subject-accurate professional dental photography (implant model, root-canal tooth model,
+  clear aligner fitting, braces close-up, smile-design, whitening kit, restoration model,
+  child at dentist) — each verified by Unsplash alt text + visual review; consistent clinical tone.
+- Italic-cyan heading emphasis reduced from 17 to 6 brand-moment instances
+  (hero, About "you", implants editorial, doctor name, reviews, closing CTA).
+- Claims audit passed: no painless/24-7/EMI/sterilization/success-rate/parking claims anywhere.
+- Full QA: all 7 pages desktop + mobile — 0px horizontal overflow, 0 broken images, no console errors.
+
+## Implemented (2026-08-29) — initial build
 - Full 7-page site with kinetic hero (masked line reveal + parallax), editorial marquee,
   numbered chapters, trust strip, categorized 57-treatment explorer, featured implants editorial,
   why-choose, doctor placeholder, honest reviews panel (no fabricated review text), gallery with

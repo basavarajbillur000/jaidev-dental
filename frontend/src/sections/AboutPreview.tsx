@@ -34,9 +34,7 @@ export default function AboutPreview() {
             eyebrow="About Jaidev"
             title={
               <>
-                Complete dental care with a{" "}
-                <span className="font-serif font-medium italic text-azure-600">patient-first</span>{" "}
-                approach
+                Complete dental care with a patient-first approach
               </>
             }
           />

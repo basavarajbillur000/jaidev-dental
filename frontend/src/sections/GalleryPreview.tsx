@@ -14,7 +14,7 @@ export default function GalleryPreview() {
             eyebrow="Inside the clinic"
             title={
               <>
-                A look <span className="font-serif font-medium italic text-azure-600">inside</span>
+                A look inside
               </>
             }
             lead="Real photographs from the clinic in Govind Shetty Palya, Electronic City."

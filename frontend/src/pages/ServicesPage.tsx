@@ -30,8 +30,7 @@ export default function ServicesPage() {
         eyebrow="Treatments & surgeries"
         title={
           <>
-            All <span className="font-serif font-medium italic text-azure-500">57</span> listed
-            treatments
+            All 57 listed treatments
           </>
         }
         lead="Every treatment and surgery on the clinic's public Practo profile — searchable and grouped by category. Tap any card for an overview."

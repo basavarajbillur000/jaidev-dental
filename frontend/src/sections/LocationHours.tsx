@@ -14,9 +14,7 @@ export default function LocationHours() {
           eyebrow="Find us"
           title={
             <>
-              Visit Jaidev{" "}
-              <span className="font-serif font-medium italic text-azure-600">Multispeciality</span>{" "}
-              Dental Care
+              Visit Jaidev Multispeciality Dental Care
             </>
           }
         />

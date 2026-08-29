@@ -21,8 +21,7 @@ export default function GalleryPage() {
         eyebrow="Gallery"
         title={
           <>
-            Inside{" "}
-            <span className="font-serif font-medium italic text-azure-500">the clinic</span>
+            Inside the clinic
           </>
         }
         lead="Real photographs from Jaidev Multispeciality Dental Care, Electronic City. Items marked as placeholders will be swapped for clinic photography."

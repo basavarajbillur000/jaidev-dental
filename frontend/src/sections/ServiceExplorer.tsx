@@ -19,8 +19,7 @@ export default function ServiceExplorer() {
           eyebrow="57 listed treatments"
           title={
             <>
-              Every treatment,{" "}
-              <span className="font-serif font-medium italic text-azure-600">organised</span>
+              Every treatment, organised
             </>
           }
           lead="The clinic's Practo profile lists 57 treatments and surgeries. Explore them here, grouped into clear categories — tap any treatment for a quick overview."

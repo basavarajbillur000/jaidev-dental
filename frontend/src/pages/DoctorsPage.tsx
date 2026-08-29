@@ -11,8 +11,7 @@ export default function DoctorsPage() {
         eyebrow="Our team"
         title={
           <>
-            Meet your{" "}
-            <span className="font-serif font-medium italic text-azure-500">dentist</span>
+            Meet your dentist
           </>
         }
         lead="Public patient feedback references Dr. Premkumar at the clinic. Full professional profiles are published only after the clinic verifies them — nothing here is invented."
