@@ -1,0 +1,214 @@
+{
+  "brand_identity": {
+    "clinic_name": "JAIDEV MULTISPECIALITY DENTAL CARE",
+    "tagline": "Healthy Smiles. Confident You.",
+    "location": "Electronic City, Bengaluru",
+    "google_rating": "4.7 / 5",
+    "google_reviews_count": 26,
+    "treatments_offered_count": 57,
+    "tone": "Professional, Trustworthy, Warm, Modern, Patient-focused, Premium, Clean, Approachable, Medical without being cold or clinical"
+  },
+  "typography": {
+    "primary_heading_font": "Plus Jakarta Sans, sans-serif",
+    "body_font": "Plus Jakarta Sans, sans-serif",
+    "accent_editorial_font": "Playfair Display, serif",
+    "mono_label_font": "JetBrains Mono, monospace",
+    "scale": {
+      "hero_h1": "text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight leading-[1.1]",
+      "section_h2": "text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight leading-tight",
+      "card_h3": "text-xl sm:text-2xl font-bold tracking-tight",
+      "sub_h4": "text-lg font-semibold tracking-normal",
+      "body_lg": "text-lg leading-relaxed text-slate-600 dark:text-slate-300",
+      "body_md": "text-base leading-relaxed text-slate-600 dark:text-slate-300",
+      "caption": "text-xs sm:text-sm font-medium uppercase tracking-[0.15em] text-cyan-700 dark:text-cyan-400"
+    }
+  },
+  "colors": {
+    "theme_mode": "Light theme primary with high-contrast subtle dark mode toggle",
+    "palette": {
+      "primary_navy": "#0B192C",
+      "deep_dental_blue": "#1E3E62",
+      "soft_cyan": "#0088B0",
+      "teal_accent_logo_only": "#0D9488",
+      "medical_white": "#FFFFFF",
+      "warm_off_white": "#F8FAFC",
+      "ice_blue_tint": "#F0F7FF",
+      "slate_dark": "#0F172A",
+      "body_text": "#334155",
+      "muted_text": "#64748B",
+      "border_subtle": "rgba(226, 232, 240, 0.8)",
+      "accent_emerald_status": "#10B981"
+    },
+    "gradients": {
+      "hero_bg": "linear-gradient(135deg, #F8FAFC 0%, #EBF4FF 50%, #F0F9FF 100%)",
+      "card_subtle": "linear-gradient(180deg, #FFFFFF 0%, #F8FAFC 100%)",
+      "accent_glow": "radial-gradient(circle at 50% 0%, rgba(0, 136, 176, 0.12) 0%, transparent 70%)"
+    }
+  },
+  "visual_enhancers": {
+    "glassmorphism": "backdrop-blur-xl bg-white/80 border border-slate-200/80 shadow-sm",
+    "card_borders": "1px solid rgba(226, 232, 240, 0.9)",
+    "shadows": {
+      "soft_elevation": "0 10px 30px -10px rgba(11, 25, 44, 0.08)",
+      "hover_glow": "0 20px 35px -10px rgba(0, 136, 176, 0.15)"
+    },
+    "micro_textures": "Subtle noise overlay with CSS radial gradient lights",
+    "motion": "Lenis smooth scroll momentum + Framer Motion reveal transitions"
+  },
+  "image_urls": {
+    "hero": {
+      "main_clinic_hero": "https://images.unsplash.com/photo-1777331903190-341a3dd0441b?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "alt": "Modern Jaidev Multispeciality Dental Care consultation room with expert doctor and patient"
+    },
+    "doctors": [
+      {
+        "id": "dr-premkumar",
+        "name": "Dr. Premkumar",
+        "role": "Chief Implantologist & Dental Surgeon",
+        "experience": "15+ Years Experience",
+        "image_url": "https://images.unsplash.com/photo-1647763283644-578114aba0c2?crop=entropy&cs=srgb&fm=jpg&q=85",
+        "bio": "Specialist in painless dental implants, full-mouth rehabilitation, and laser dentistry."
+      }
+    ],
+    "services_featured": [
+      {
+        "category": "Dental Implants",
+        "image_url": "https://lh3.googleusercontent.com/glsgmb/AMnFcuq9Dnkc7E6cHMQtQzkmBNGgK-eNpRcl0kvgifjA0RWVXKfGmzTFHLV3cB-FJMqqfwDNOEqmgrXWsAd6vcFK8nH60Q"
+      },
+      {
+        "category": "Clear Aligners",
+        "image_url": "https://lh3.googleusercontent.com/glsgmb/AMnFcuryy_YIeWezL21rEAkRxG5bLDJ_ai6YsxQbqDgCRc3cmPKoHkt0IVFB8y3TZhV0v5G77n_6RcSuX40QbS2Etnlx4w"
+      },
+      {
+        "category": "Laser Dentistry",
+        "image_url": "https://lh3.googleusercontent.com/glsgmb/AMnFcupB_1wB2gudppkd26EkRXkOvODua2fG2mSTVXsNHUQTXbFyM8PWHlyV2J-ZJkQKjsqHXbdWr7uLKwUGWI6UT7g2rQ"
+      },
+      {
+        "category": "Smile Designing",
+        "image_url": "https://lh3.googleusercontent.com/glsgmb/AMnFcupFj4v15-08OGf_nhOA0pI_B-jWqxSKi6yTvRJgDzpd1m3U_yXu_aT5qpaOhOwukn8cF4CA_G3rbtom84y7gkyO-g"
+      }
+    ],
+    "gallery": [
+      {
+        "url": "https://lh3.googleusercontent.com/-PzEpctJVKOZXzPCepJC5vlBoHpdIF0stl4wpwzLRpZTvcoaMGROg0FQPBZStyP90Y6_LoBn0WRUVN8d-g",
+        "category": "Clinic",
+        "title": "Sterile Modern Dental Suite"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/eKgmKdABIhmqkbBeT8SUFs0S8vle2gFf6BUR5IMqLd6NzvjJwmC3PlhBBkYl6M8VhhRX9V8Fx9BlsCiszA",
+        "category": "Treatments",
+        "title": "Digital X-Ray Diagnostic Desk"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/zyucwJkNH79Zxm1ZjdVi5I_IIV8uDod8YTXWAE1nR8ksUWI6Ibi-kbQTVyADjvVH9sN9JbhlSNQkAR1qHQ",
+        "category": "Clinic",
+        "title": "Patient Lounge Electronic City"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/n8UOW-_3UCvDDJaWbbc7UjJmpRihEqZ3vv-bL80ZOAL6h6zthM1bSNFUmCm3Y3AzTpYkBi0Lufe6PVeebQ",
+        "category": "Smiles",
+        "title": "Confident Smile After Aligners"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/ETaNdei9OUOygUKH5aXnxS4QhBI5w8OdFmRrnQ6VXlW5WlORkkkDNNaRlXLbLaDM2lKcdO4ZQ8M196SQWw",
+        "category": "Treatments",
+        "title": "Painless Dental Implant Procedure"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/HYE9R3HwiegFakjuwZXVgXZfaRDfuVFgNNl301gMb8dIsunOzQnjG6X6REQx8kDkzRPuFmolqECU_xQ6ng",
+        "category": "Clinic",
+        "title": "Advanced Sterilization Chamber"
+      }
+    ]
+  },
+  "layout_blueprints": {
+    "navbar": {
+      "style": "Sticky compacting glassmorphic bar",
+      "logo": "JAIDEV Dental logo with subtle teal accent leaf/sparkle mark",
+      "links": [
+        { "label": "Home", "href": "#home" },
+        { "label": "About", "href": "#about" },
+        { "label": "Services", "href": "#services" },
+        { "label": "Implants", "href": "#implants" },
+        { "label": "Doctor", "href": "#doctor" },
+        { "label": "Reviews", "href": "#reviews" },
+        { "label": "Gallery", "href": "#gallery" },
+        { "label": "Contact", "href": "#contact" }
+      ],
+      "actions": [
+        { "type": "button", "label": "Book Appointment", "variant": "primary", "data_testid": "nav-book-appointment-button" },
+        { "type": "phone", "number": "+91 74116 18108", "label": "Call Now", "data_testid": "nav-call-button" }
+      ]
+    },
+    "hero_section": {
+      "eyebrow": "MULTISPECIALITY DENTAL CARE • ELECTRONIC CITY, BENGALURU",
+      "headline_lines": [
+        "Healthy Smiles.",
+        "Confident You."
+      ],
+      "subheadline": "Experience world-class, painless dental care in Electronic City. From dental implants to clear aligners and root canals, we restore function and confidence with precision.",
+      "ctas": [
+        { "text": "Book an Appointment", "action": "open_modal", "data_testid": "hero-book-appointment-btn" },
+        { "text": "Call +91 74116 18108", "action": "tel", "data_testid": "hero-call-now-btn" },
+        { "text": "WhatsApp Us", "action": "whatsapp", "data_testid": "hero-whatsapp-btn" }
+      ],
+      "trust_strip": [
+        { "stat": "4.7 / 5", "label": "Google Rating", "sub": "Based on 26 verified patient reviews" },
+        { "stat": "15+ Yrs", "label": "Clinical Expertise", "sub": "Senior implantologists & specialists" },
+        { "stat": "57+", "label": "Specialized Treatments", "sub": "Full-mouth & pediatric care" },
+        { "stat": "Electronic City", "label": "Location", "sub": "Phase 1 & 2 accessible hub" }
+      ]
+    },
+    "service_architecture": {
+      "total_count": 57,
+      "categories": [
+        "Implants & Surgery",
+        "Orthodontics & Aligners",
+        "Cosmetic & Smile Design",
+        "Endodontics & Root Canal",
+        "Preventive & Cleaning",
+        "Prosthodontics & Dentures",
+        "Pediatric Dental Care",
+        "Emergency Care"
+      ],
+      "interactive_features": [
+        "Category tab filters",
+        "Real-time search input for 57 treatments",
+        "Expandable modal with treatment duration, pain level, cost range, and recovery guide",
+        "Direct WhatsApp inquiry button per treatment card"
+      ]
+    },
+    "featured_implants_editorial": {
+      "title": "The Gold Standard in Tooth Restoration: Painless Dental Implants",
+      "subtitle": "Permanent, natural-looking tooth replacement backed by 3D digital imaging and 15+ years of surgical precision.",
+      "chapters": [
+        { "num": "01", "title": "Precision 3D CBCT Planning", "desc": "Sub-millimeter accurate guided implant placement without incisions." },
+        { "num": "02", "title": "Biocompatible Titanium & Zirconia", "desc": "Premium medical-grade implants that fuse seamlessly with natural bone." },
+        { "num": "03", "title": "Same-Day Temporary Teeth", "desc": "Walk out with immediate functional crowns on the same day for selected cases." }
+      ]
+    },
+    "mobile_bottom_bar": {
+      "visibility": "Fixed bottom sticky on mobile screens (< 768px)",
+      "buttons": [
+        { "label": "Call Clinic", "icon": "Phone", "href": "tel:+917411618108", "data_testid": "mobile-bottom-call-btn" },
+        { "label": "WhatsApp", "icon": "MessageSquare", "href": "https://wa.me/917411618108", "data_testid": "mobile-bottom-whatsapp-btn" },
+        { "label": "Book Visit", "icon": "Calendar", "action": "open_modal", "data_testid": "mobile-bottom-book-btn" }
+      ]
+    }
+  },
+  "instructions_to_main_agent": [
+    "ALWAYS include data-testid on every interactive button, modal, form input, navigation link, and stat card.",
+    "Use Lenis smooth scrolling by initializing lenis in main wrapper or index.js.",
+    "Maintain strict color rule: Primary dark navy (#0B192C), soft cyan accents (#0088B0), and teal (#0D9488) used ONLY in the logo and badge highlights.",
+    "Do NOT use raw HTML select or date input; use Shadcn Select and Shadcn Popover Calendar.",
+    "Ensure 57 treatments are structured in a searchable grid with full expandability.",
+    "Provide working appointment form with validation, success modal, and fallback to direct WhatsApp pre-filled text.",
+    "Place location Google Maps iframe embed for Electronic City Phase 2, Bengaluru with landmark guide."
+  ],
+  "UNIVERSAL GUIDELINES FOR MAIN AGENT": {
+    "design_standard": "Awwwards-level medical healthcare site. No generic centered blue boxes, no stock blue gradients. Use expansive typography, clean borders, precise optical padding.",
+    "typography_rule": "Use Plus Jakarta Sans with tight tracking on headings (-0.02em). Use Playfair Display for editorial implant section quote overlays.",
+    "button_styles": "Pill-shaped or rounded-lg with explicit hover contrast changes (hover:bg-slate-900 hover:text-white).",
+    "testing": "All interactive elements MUST have data-testid attributes."
+  }
+}
