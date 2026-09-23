@@ -1,3 +1,4 @@
+https://jaidev-dental-clinic.preview.emergentagent.com/
 # farm-ts
 
 Minimal split backend/frontend starter: **FastAPI + MongoDB** behind a
